@@ -1,0 +1,14 @@
+D:\learning\C#\branches_and_loops\obj\Debug\net7.0\branches_and_loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning\C#\branches_and_loops\obj\Debug\net7.0\branches_and_loops.AssemblyInfoInputs.cache
+D:\learning\C#\branches_and_loops\obj\Debug\net7.0\branches_and_loops.AssemblyInfo.cs
+D:\learning\C#\branches_and_loops\obj\Debug\net7.0\branches_and_loops.csproj.CoreCompileInputs.cache
+D:\learning\C#\branches_and_loops\bin\Debug\net7.0\branches_and_loops.exe
+D:\learning\C#\branches_and_loops\bin\Debug\net7.0\branches_and_loops.deps.json
+D:\learning\C#\branches_and_loops\bin\Debug\net7.0\branches_and_loops.runtimeconfig.json
+D:\learning\C#\branches_and_loops\bin\Debug\net7.0\branches_and_loops.dll
+D:\learning\C#\branches_and_loops\bin\Debug\net7.0\branches_and_loops.pdb
+D:\learning\C#\branches_and_loops\obj\Debug\net7.0\branches_and_loops.dll
+D:\learning\C#\branches_and_loops\obj\Debug\net7.0\refint\branches_and_loops.dll
+D:\learning\C#\branches_and_loops\obj\Debug\net7.0\branches_and_loops.pdb
+D:\learning\C#\branches_and_loops\obj\Debug\net7.0\branches_and_loops.genruntimeconfig.cache
+D:\learning\C#\branches_and_loops\obj\Debug\net7.0\ref\branches_and_loops.dll
