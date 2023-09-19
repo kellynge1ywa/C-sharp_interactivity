@@ -1,0 +1,14 @@
+D:\learning\C#\namespaces\bin\Debug\net7.0\namespaces.exe
+D:\learning\C#\namespaces\bin\Debug\net7.0\namespaces.deps.json
+D:\learning\C#\namespaces\bin\Debug\net7.0\namespaces.runtimeconfig.json
+D:\learning\C#\namespaces\bin\Debug\net7.0\namespaces.dll
+D:\learning\C#\namespaces\bin\Debug\net7.0\namespaces.pdb
+D:\learning\C#\namespaces\obj\Debug\net7.0\namespaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning\C#\namespaces\obj\Debug\net7.0\namespaces.AssemblyInfoInputs.cache
+D:\learning\C#\namespaces\obj\Debug\net7.0\namespaces.AssemblyInfo.cs
+D:\learning\C#\namespaces\obj\Debug\net7.0\namespaces.csproj.CoreCompileInputs.cache
+D:\learning\C#\namespaces\obj\Debug\net7.0\namespaces.dll
+D:\learning\C#\namespaces\obj\Debug\net7.0\refint\namespaces.dll
+D:\learning\C#\namespaces\obj\Debug\net7.0\namespaces.pdb
+D:\learning\C#\namespaces\obj\Debug\net7.0\namespaces.genruntimeconfig.cache
+D:\learning\C#\namespaces\obj\Debug\net7.0\ref\namespaces.dll

@@ -1,0 +1,14 @@
+D:\learning\C#\first\obj\Debug\net7.0\first.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning\C#\first\obj\Debug\net7.0\first.AssemblyInfoInputs.cache
+D:\learning\C#\first\obj\Debug\net7.0\first.AssemblyInfo.cs
+D:\learning\C#\first\obj\Debug\net7.0\first.csproj.CoreCompileInputs.cache
+D:\learning\C#\first\bin\Debug\net7.0\first.exe
+D:\learning\C#\first\bin\Debug\net7.0\first.deps.json
+D:\learning\C#\first\bin\Debug\net7.0\first.runtimeconfig.json
+D:\learning\C#\first\bin\Debug\net7.0\first.dll
+D:\learning\C#\first\bin\Debug\net7.0\first.pdb
+D:\learning\C#\first\obj\Debug\net7.0\first.dll
+D:\learning\C#\first\obj\Debug\net7.0\refint\first.dll
+D:\learning\C#\first\obj\Debug\net7.0\first.pdb
+D:\learning\C#\first\obj\Debug\net7.0\first.genruntimeconfig.cache
+D:\learning\C#\first\obj\Debug\net7.0\ref\first.dll

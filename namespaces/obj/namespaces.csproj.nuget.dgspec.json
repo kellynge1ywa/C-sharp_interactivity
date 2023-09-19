@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\learning\\C#\\branches_and_loops\\branches_and_loops.csproj": {}
+    "D:\\learning\\C#\\namespaces\\namespaces.csproj": {}
   },
   "projects": {
-    "d:\\learning\\C#\\branches_and_loops\\branches_and_loops.csproj": {
+    "D:\\learning\\C#\\namespaces\\namespaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\learning\\C#\\branches_and_loops\\branches_and_loops.csproj",
-        "projectName": "branches_and_loops",
-        "projectPath": "d:\\learning\\C#\\branches_and_loops\\branches_and_loops.csproj",
+        "projectUniqueName": "D:\\learning\\C#\\namespaces\\namespaces.csproj",
+        "projectName": "namespaces",
+        "projectPath": "D:\\learning\\C#\\namespaces\\namespaces.csproj",
         "packagesPath": "C:\\Users\\KELLY\\.nuget\\packages\\",
-        "outputPath": "d:\\learning\\C#\\branches_and_loops\\obj\\",
+        "outputPath": "D:\\learning\\C#\\namespaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
